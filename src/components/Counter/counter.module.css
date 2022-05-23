@@ -1,3 +1,5 @@
-.counter {
+.counter > div {
   /* TODO */
+  margin-top: 30px;
 }
+
